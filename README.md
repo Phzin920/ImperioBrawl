@@ -79,7 +79,7 @@ JSON para armazenamento local
 ⚙️ Configuração e Instalação
 1. Clone o repositório
 bash
-git clone https://github.com/seu-usuario/imperio-brawl-bot.git
+git clone https://github.com/Phzin920/imperio-brawl-bot.git
 cd imperio-brawl-bot
 2. Instale as dependências
 bash
